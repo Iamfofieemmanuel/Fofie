@@ -1,2 +1,3 @@
 # Fofie
-Its all about me 
+Its all about me.
+The world is a stage stand on it
